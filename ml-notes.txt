@@ -1,0 +1,10 @@
+
+Introduction to Machine Learning
+
+Machine learning is a branch of artificial intelligence.
+
+Supervised learning uses labeled data. Classification predicts categories, and regression predicts numerical values.
+
+Unsupervised learning uses unlabeled data. Clustering groups similar data points.
+
+Overfitting happens when a model learns the training data too closely and performs poorly on unseen data.
